@@ -1,7 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main(void)
 {
-    std::cout << "Enter start's parametrs: ";
+    cout << "Enter start's parametrs: ";
     return 0;
 }
